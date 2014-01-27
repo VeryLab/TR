@@ -6,6 +6,11 @@
 			{
 				//jajaja
 			}
+			
+			private function what():String
+			{
+				return "what the hell?";
+			}
 		]]>
 	</fx:Script>
 </s:WindowedApplication>
