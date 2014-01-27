@@ -11,6 +11,11 @@
 			{
 				return "what the hell?";
 			}
+			
+			private function fuckfuckfuck():void
+			{
+				//fuck it anyway
+			}
 		]]>
 	</fx:Script>
 </s:WindowedApplication>
